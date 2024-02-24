@@ -1,12 +1,16 @@
 # film_making
   1. Формулировка задачи: что вы делаете и зачем это нужно?
-  
+     Предложить авторам книг, обладающих авторскими правами на свои художественные произведения, инструмент для автоматизированного, персонализированного создания фильмов на основе их художественных произведений - "экранизация 
   3. Данные: откуда вы их собираетесь брать (конкретные ссылки), какие у них есть особенности, что может стать проблемой, почему этих данных достаточно для решения поставленной задачи?
      1) https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset 
      2) https://developer.imdb.com/non-commercial-datasets/
      3) https://archive.ics.uci.edu/dataset/132/movie
      4) https://developer.themoviedb.org/docs/getting-started
      5) https://www.omdbapi.com/
-     6) 
+     6) https://data.world/adrianmcmahon/imdb-dataset-all-indian-movies
+     7) https://github.com/topics/movies-dataset
+     8) https://paperswithcode.com/datasets?mod=videos&page=1
+     9) https://paperswithcode.com/datasets?mod=audio
+     10) https://paperswithcode.com/datasets?mod=texts&page=1
   5. Подоход к моделированию: какие модели (имена нейросетей, библиотек) вы будете использвоать в решении вашей задачи, какова будет конфигурация решения? Можно приложить схему.
   6. Способ предсказания: после обучения модели вам нужно будет обернуть модель в продакшен пайплайн - какие шаги в нём необходимы, как вы видите финальное применение? Схема также не будет лишней.

@@ -31,7 +31,8 @@
 
      ![image](https://github.com/iiwoii/film_making/assets/121694433/4d2a8dd1-de04-4cb8-a72c-d0e82c75addf)
 
-     
+     ![image](https://github.com/iiwoii/film_making/assets/121694433/a02fbbd9-1fcd-4c39-a583-1a3ee6286bb1)
+
 
   ![image](https://github.com/iiwoii/film_making/assets/121694433/9ccb5888-0ef0-4d5d-b644-9d430b325705)
 

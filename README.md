@@ -2,9 +2,11 @@
   1. Формулировка задачи: что вы делаете и зачем это нужно?
   
   3. Данные: откуда вы их собираетесь брать (конкретные ссылки), какие у них есть особенности, что может стать проблемой, почему этих данных достаточно для решения поставленной задачи?
-     https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset 
-     https://developer.imdb.com/non-commercial-datasets/
-     https://archive.ics.uci.edu/dataset/132/movie
-     
+     1) https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset 
+     2) https://developer.imdb.com/non-commercial-datasets/
+     3) https://archive.ics.uci.edu/dataset/132/movie
+     4) https://developer.themoviedb.org/docs/getting-started
+     5) https://www.omdbapi.com/
+     6) 
   5. Подоход к моделированию: какие модели (имена нейросетей, библиотек) вы будете использвоать в решении вашей задачи, какова будет конфигурация решения? Можно приложить схему.
   6. Способ предсказания: после обучения модели вам нужно будет обернуть модель в продакшен пайплайн - какие шаги в нём необходимы, как вы видите финальное применение? Схема также не будет лишней.

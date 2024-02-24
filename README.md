@@ -29,9 +29,11 @@
      Библиотеки: NumPy,SciPy,OpenCV,NLTK,Gensim,Scikit–learn
 
 
-     ![image](https://github.com/iiwoii/film_making/assets/121694433/4d2a8dd1-de04-4cb8-a72c-d0e82c75addf),
+     ![image](https://github.com/iiwoii/film_making/assets/121694433/4d2a8dd1-de04-4cb8-a72c-d0e82c75addf)
 
-    ![image](https://github.com/iiwoii/film_making/assets/121694433/9ccb5888-0ef0-4d5d-b644-9d430b325705)
+     
+
+  ![image](https://github.com/iiwoii/film_making/assets/121694433/9ccb5888-0ef0-4d5d-b644-9d430b325705)
 
     Credits: https://medium.com/@FrankAdams7/step-by-step-breakdown-of-real-time-ml-operational-deployment-pipeline-848f290eb5d9
     Credits: https://bigdataschool.ru/blog/techstack-template-for-mlops-tools.html

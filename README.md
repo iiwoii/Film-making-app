@@ -3,8 +3,21 @@
      
      Предложить авторам книг, обладающих авторскими правами на свои художественные произведения, инструмент для автоматизированного, персонализированного создания фильмов на основе их художественных произведений - "экранизация книг" с помощью технологий машинного обучения.
 
+     AI models learn to generate video from text by using various techniques such as deep learning, recurrent neural networks, transformers, diffusion models, and GANs. These techniques help the models to understand the context and semantics of the text input and generate corresponding video frames that are realistic and coherent.
+
+Some of the common features of text-to-video AI models are:
+
+They can generate videos from text descriptions only, or from text and image inputs.
+They can generate videos in various artistic styles, moods, with 3D object understanding.
+They can generate videos that are short (a few seconds) or long (several minutes).
+They can perform instruction-guided video editing, such background or subject of a video.
+They can use publicly available datasets or fine-tune on specific datasets.
+They can be accessed through various platforms, such as Hugging Face, RunwayML, NightCafe, and others.
+
+Credits: https://byby.dev/ai-text-to-video-models
+
      
-  2. Данные: откуда вы их собираетесь брать (конкретные ссылки), какие у них есть особенности, что может стать проблемой, почему этих данных достаточно для решения поставленной задачи?
+  3. Данные: откуда вы их собираетесь брать (конкретные ссылки), какие у них есть особенности, что может стать проблемой, почему этих данных достаточно для решения поставленной задачи?
 
      особенности: лицензирование, лимиты на использование - географического, иного плана; 
      проблема: платное или бесплатное использование; 
@@ -22,7 +35,7 @@
      10) https://paperswithcode.com/datasets?mod=texts&page=1
         
       
-  3. Подход к моделированию: какие модели (имена нейросетей, библиотек) вы будете использовать в решении вашей задачи, какова будет конфигурация решения? Можно приложить схему.
+  4. Подход к моделированию: какие модели (имена нейросетей, библиотек) вы будете использовать в решении вашей задачи, какова будет конфигурация решения? Можно приложить схему.
      
      Имена нейросетей: Sora, NUWA
      

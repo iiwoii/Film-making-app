@@ -3,7 +3,11 @@
      
      Предложить авторам книг, обладающих авторскими правами на свои художественные произведения, инструмент для автоматизированного, персонализированного создания фильмов на основе их художественных произведений - "экранизация книг" с помощью технологий машинного обучения.
 
-     AI models learn to generate video from text by using various techniques such as deep learning, recurrent neural networks, transformers, diffusion models, and GANs. These techniques help the models to understand the context and semantics of the text input and generate corresponding video frames that are realistic and coherent.
+
+
+
+
+     ** AI models learn to generate video from text by using various techniques such as deep learning, recurrent neural networks, transformers, diffusion models, and GANs. These techniques help the models to understand the context and semantics of the text input and generate corresponding video frames that are realistic and coherent.
 
 Some of the common features of text-to-video AI models are:
 

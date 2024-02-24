@@ -22,7 +22,7 @@
      10) https://paperswithcode.com/datasets?mod=texts&page=1
         
       
-  3. Подоход к моделированию: какие модели (имена нейросетей, библиотек) вы будете использовать в решении вашей задачи, какова будет конфигурация решения? Можно приложить схему.
+  3. Подход к моделированию: какие модели (имена нейросетей, библиотек) вы будете использовать в решении вашей задачи, какова будет конфигурация решения? Можно приложить схему.
      
      Имена нейросетей: Sora, NUWA
      
@@ -32,6 +32,7 @@
      ![image](https://github.com/iiwoii/film_making/assets/121694433/4d2a8dd1-de04-4cb8-a72c-d0e82c75addf)
 
      Credits: https://bigdataschool.ru/blog/techstack-template-for-mlops-tools.html
+     #
 
     ![image](https://github.com/iiwoii/film_making/assets/121694433/9ccb5888-0ef0-4d5d-b644-9d430b325705)
 

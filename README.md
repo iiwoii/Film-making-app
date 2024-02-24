@@ -1,4 +1,4 @@
-# Создание фильмов на базе художественных произведений, книг авторов
+# Создание фильмов на базе художественных произведений авторов
   1. Формулировка задачи: что вы делаете и зачем это нужно?
      
      Предложить авторам книг, обладающих авторскими правами на свои художественные произведения, инструмент для автоматизированного, персонализированного создания фильмов на основе их художественных произведений - "экранизация книг" с помощью технологий машинного обучения.
@@ -7,18 +7,19 @@
 
 
 
-     ** AI models learn to generate video from text by using various techniques such as deep learning, recurrent neural networks, transformers, diffusion models, and GANs. These techniques help the models to understand the context and semantics of the text input and generate corresponding video frames that are realistic and coherent.
+     ** AI models learn to generate video from text by using various techniques such as deep learning, recurrent neural networks, transformers, diffusion models, and GANs. These techniques help the models to understand the context and semantics of the text input and 
+        generate corresponding video frames that are realistic and coherent.
 
-Some of the common features of text-to-video AI models are:
+        Some of the common features of text-to-video AI models are:
 
-They can generate videos from text descriptions only, or from text and image inputs.
-They can generate videos in various artistic styles, moods, with 3D object understanding.
-They can generate videos that are short (a few seconds) or long (several minutes).
-They can perform instruction-guided video editing, such background or subject of a video.
-They can use publicly available datasets or fine-tune on specific datasets.
-They can be accessed through various platforms, such as Hugging Face, RunwayML, NightCafe, and others.
+        They can generate videos from text descriptions only, or from text and image inputs.
+        They can generate videos in various artistic styles, moods, with 3D object understanding.
+        They can generate videos that are short (a few seconds) or long (several minutes).
+        They can perform instruction-guided video editing, such background or subject of a video.
+        They can use publicly available datasets or fine-tune on specific datasets.
+        They can be accessed through various platforms, such as Hugging Face, RunwayML, NightCafe, and others.
 
-Credits: https://byby.dev/ai-text-to-video-models
+        Credits: https://byby.dev/ai-text-to-video-models
 
      
   3. Данные: откуда вы их собираетесь брать (конкретные ссылки), какие у них есть особенности, что может стать проблемой, почему этих данных достаточно для решения поставленной задачи?

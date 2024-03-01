@@ -34,23 +34,25 @@
   3. Подход к моделированию: какие модели (имена нейросетей, библиотек) вы будете использовать в решении вашей задачи, какова будет конфигурация решения? Можно приложить схему.
      
      Имена нейросетей:
-     1. OpenAI models - ChatGPT (если бесплатное решение) или другие OpenAI решения, content generation APIs, как Sora (в случае использования платных решений)
-     2. ali-vilab/text-to-video-ms-1.7b
-     3. возможно использования дополнительных к указанным или альтернативных аналогичных моделей.
+     a. OpenAI models - ChatGPT (если бесплатное решение) или другие OpenAI решения, content generation APIs, как Sora (в случае использования платных решений)
+     b. ali-vilab/text-to-video-ms-1.7b
+     c. возможно использования дополнительных к указанным или альтернативных аналогичных моделей.
      
      Библиотеки:
-     1. mutagen, gTTS, PIL, moviepy, ESpeakng, Pyttsx3 и др.
-     2. diffusers, transformers, accelerate, pytorch
-     3. др. в зависимости от подзадач.
+     a. mutagen, gTTS, PIL, moviepy, ESpeakng, Pyttsx3 и др.
+     b. diffusers, transformers, accelerate, pytorch
+     c. др. в зависимости от подзадач.
 
      Конфигурация решения:
      
-     I.) OpenAI API, ali-vilab models для использования возможностей готовых моделей.
+     I.) OpenAI API, ali-vilab models для использования возможностей готовых моделей
      II.) конвертация текста в аудио, текста в видео - создание скрипта.
      
      
      Credits: (https://medium.com/@kamaljp/text-to-video-pipeline-python-automation-using-open-ai-models-f4341555c8d9)
+     
      Сredits: (https://huggingface.co/ali-vilab/text-to-video-ms-1.7b)
+     
      Credits: (https://www.youtube.com/watch?v=Tlxe3l_m3PA)
  
   5. Способ предсказания: после обучения модели вам нужно будет обернуть модель в продакшен пайплайн - какие шаги в нём необходимы, как вы видите финальное применение? Схема также не будет лишней.

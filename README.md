@@ -38,8 +38,10 @@
      a. OpenAI models - ChatGPT (если бесплатное решение) или другие OpenAI решения, content generation APIs, как Sora (в случае использования платных решений)
      
      b. ali-vilab/text-to-video-ms-1.7b
+
+     c.
      
-     c. возможно использования дополнительных к указанным или альтернативных аналогичных моделей.
+     d. возможно использования дополнительных к указанным или альтернативных аналогичных моделей.
      
 
 
@@ -48,19 +50,23 @@
      a. mutagen, gTTS, PIL, moviepy, ESpeakng, Pyttsx3 и др.
      
      b. diffusers, transformers, accelerate, pytorch
+
+     d. 
      
      c. др. в зависимости от подзадач.
 
      
 
      Конфигурация решения:
+     I.) 
      
-     I.) OpenAI API, ali-vilab models для использования возможностей готовых моделей
+     II.) OpenAI API, ali-vilab models для использования возможностей готовых моделей
      
-     II.) конвертация текста в аудио, текста в видео - создание скрипта
+     III.) конвертация текста в аудио, текста в видео - создание скрипта
      
 
           
+     Credits: (https://medium.com/@ruslanmv/how-to-create-a-video-with-artificial-intelligence-from-a-text-1dd3ebd49a95)
      
      Credits: (https://medium.com/@kamaljp/text-to-video-pipeline-python-automation-using-open-ai-models-f4341555c8d9)
      

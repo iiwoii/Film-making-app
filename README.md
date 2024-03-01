@@ -35,12 +35,16 @@
      
      Имена нейросетей:
      a. OpenAI models - ChatGPT (если бесплатное решение) или другие OpenAI решения, content generation APIs, как Sora (в случае использования платных решений)
+     
      b. ali-vilab/text-to-video-ms-1.7b
+     
      c. возможно использования дополнительных к указанным или альтернативных аналогичных моделей.
      
      Библиотеки:
      a. mutagen, gTTS, PIL, moviepy, ESpeakng, Pyttsx3 и др.
+     
      b. diffusers, transformers, accelerate, pytorch
+     
      c. др. в зависимости от подзадач.
 
      Конфигурация решения:

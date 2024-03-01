@@ -54,7 +54,8 @@
      I.) OpenAI API, ali-vilab models для использования возможностей готовых моделей
      
      II.) конвертация текста в аудио, текста в видео - создание скрипта.
-     
+
+          
      
      Credits: (https://medium.com/@kamaljp/text-to-video-pipeline-python-automation-using-open-ai-models-f4341555c8d9)
      

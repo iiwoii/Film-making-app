@@ -71,4 +71,4 @@
 ![image](https://github.com/iiwoii/film_making/assets/121694433/56f9409a-9ba1-4f16-af82-52375593e871)
 
 
-     Credits: https://habr.com/ru/articles/739316/
+     Credits: (https://habr.com/ru/articles/739316/)
